@@ -1,4 +1,4 @@
 # bloomdaizy-demo
 This is my first git repository
 <br>
-Author - Muhammad Humdan
+Author - Muhammad Humdan Bangash
